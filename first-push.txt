@@ -1,2 +1,11 @@
-This is the first file
-This is the second edit to the fila.
+# This is the first file
+# This is the second edit to the fila.
+
+## Deployment Notes
+This is the deployment notes
+
+## Staging Notes
+This is the staging notes
+
+## How to use this repo notes
+This is will take the note taking techniques
